@@ -1,0 +1,9 @@
+numpy
+pandas
+tqdm
+matplotlib
+plotly
+scipy
+statsmodels
+ipykernel
+nbformat
