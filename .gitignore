@@ -64,6 +64,7 @@ db.sqlite3-journal
 # Data
 data/
 data_metrica/
+match_clips/
 
 # Flask stuff:
 instance/
